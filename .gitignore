@@ -1,0 +1,11 @@
+node_modules
+*.tgz
+.env
+.env.*
+!.env.example
+coverage
+storage-state*.json
+session*.json
+cookies*.json
+playwright-report
+test-results
